@@ -5,6 +5,12 @@
 }
 
 .sectionItem{
-    flex: 1;
-    height: 600px;
+    height: 300px;
+    flex: 1 0 auto;
+}
+
+.header{
+    height: 60px;
+    flex: 1 0 auto;
+    background-color: blanchedalmond;
 }
