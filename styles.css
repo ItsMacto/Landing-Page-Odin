@@ -1,0 +1,10 @@
+.sectionContainer{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.sectionItem{
+    flex: 1;
+    height: 600px;
+}
